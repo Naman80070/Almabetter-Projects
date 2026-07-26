@@ -12,7 +12,7 @@ This project performs a structured **Exploratory Data Analysis (EDA)** on custom
 
 - Understand the structure and quality of the dataset.
 - Clean and preprocess the data (handle data type issues, feature engineering).
-- Perform Univariate, Bivariate, and Multivariate analysis (**UBM Rule**) using 25+ meaningful charts.
+- Perform Univariate, Bivariate, and Multivariate analysis (**UBM Rule**) using 15+ meaningful charts.
 - Extract actionable business insights and recommendations for Paisabazaar's credit risk strategy.
 
 ---
@@ -54,9 +54,9 @@ The dataset contains **100,000 records** across **12,500 unique customers**, wit
 ## 📊 Exploratory Data Analysis (UBM Rule)
 
 The analysis follows a structured approach:
-- **U**nivariate Analysis — distribution of individual features
-- **B**ivariate Analysis — Numerical-Categorical, Numerical-Numerical, Categorical-Categorical relationships
-- **M**ultivariate Analysis — interactions across 3+ variables
+- **U**nivariate Analysis
+- **B**ivariate Analysis
+- **M**ultivariate Analysis
 
 15+ charts were created, each accompanied by:
 - Why the chart was chosen
@@ -91,7 +91,6 @@ The analysis follows a structured approach:
 
 ```
 ├── Paisabazaar_Credit_Score_EDA.ipynb   # Main EDA notebook
-├── dataset.csv                          # Dataset (if included)
 └── README.md                            # Project documentation
 ```
 
@@ -111,7 +110,7 @@ The analysis follows a structured approach:
 
 ## ✅ Conclusion
 
-This project explores Paisabazaar's customer data to understand the key factors influencing credit score classification. Through systematic data cleaning and 25+ visualizations following the UBM rule, it identifies **income, credit mix, and payment delay** as the strongest predictors of creditworthiness, while highlighting a clear high-risk customer segment. These insights lay the foundation for future predictive modeling and more informed, data-driven credit risk decisions at Paisabazaar.
+This project explores Paisabazaar's customer data to understand the key factors influencing credit score classification. Through systematic data cleaning and 15+ visualizations following the UBM rule, it identifies **income, credit mix, and payment delay** as the strongest predictors of creditworthiness, while highlighting a clear high-risk customer segment. These insights lay the foundation for future predictive modeling and more informed, data-driven credit risk decisions at Paisabazaar.
 
 ---
 
