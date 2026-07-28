@@ -91,6 +91,7 @@ The analysis follows a structured approach:
 
 ```
 ├── Paisabazaar_Credit_Score_EDA.ipynb   # Main EDA notebook
+└── Dataset link : https://drive.google.com/file/d/1cWicj0F9d8e0fAqOKGm-OowwtLddIHrC/view?usp=sharing
 └── README.md                            # Project documentation
 ```
 
